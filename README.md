@@ -1,7 +1,7 @@
-# arXiVius Portfolio 🚀
+# hello.
 
-My animated portfolio built with React, TailwindCSS, Framer Motion, and Lucide.  
-Hosted on GitHub Pages.
+my animated portfolio built with React, TailwindCSS, Framer Motion, and Lucide.  
+Hosted on GitHub Pages(free lololollo)
 
 ### 🚀 Deploy
 ```bash
