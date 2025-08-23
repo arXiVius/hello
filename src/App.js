@@ -192,7 +192,7 @@ export default function App() {
   <h2 className="text-3xl md:text-4xl font-bold text-center mb-16 bg-clip-text text-transparent bg-gradient-to-r from-slate-200 to-slate-500">
     My latest{" "}
     <span className="italic underline decoration-pink-500 decoration-4 underline-offset-4 font-unbounded">
-      projects
+      projects.
     </span>
   </h2>
           <div className="grid grid-cols-1 md:grid-cols-2 lg:grid-cols-3 gap-8">
