@@ -1,3 +1,14 @@
 @tailwind base;
 @tailwind components;
 @tailwind utilities;
+
+::selection {
+  background-color: #5B42F3; /* This is the background color of the highlight */
+  color: #FFFFFF; /* This is the color of the text within the highlight */
+}
+
+/* For older browsers like Mozilla Firefox */
+::-moz-selection {
+  background-color: #5B42F3;
+  color: #FFFFFF;
+}
